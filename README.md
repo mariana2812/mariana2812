@@ -4,7 +4,7 @@
   </a>
 </div>
 #
-Me chamo Mariana Machado
+
 #
 
 <img align="right" alt="" height="190px" src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" alt="Texto Alternativo" width="400">
