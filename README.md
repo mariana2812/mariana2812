@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <h4 style="font-size: clamp(20px, 5vw, 32px);">Languages I Use</h4>
+  <h2>Languages I Use</h2>
 </div>
 
 <div align="center">
