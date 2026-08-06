@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img class="avatar" src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" width="380"/>
+  <img class="avatar" src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" width="600"/>
 </div>
 
 <br>
