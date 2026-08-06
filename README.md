@@ -41,11 +41,4 @@ src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username
 
 <br>
 
-<div align="center">
 
-<img 
-src="https://raw.githubusercontent.com/mariana2812/mariana2812/snake-output/snake.svg" 
-alt="Snake animation"
-/>
-
-</div>
