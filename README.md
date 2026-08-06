@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" width="380"/>
+  <img class="avatar" src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" />
 </div>
 
 <br>
@@ -40,5 +40,16 @@ src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username
 </div>
 
 <br>
-
+<style>
+  .avatar {
+    width: 380px;
+    
+  }
+  @media (min-width: 600px){
+    .avatar {
+      width: 600px;
+    
+    }
+  }
+</style>
 
