@@ -14,12 +14,16 @@
 
 <br>
 
-<h2 align="center">Languages I Use</h2>
+<h3 align="center">languages ​​I use</h3>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,cs,html,css&theme=dark" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
 </div>
 
 <br>
@@ -27,7 +31,7 @@
 <div align="center">
 
 <img
-height="190"
+height="180"
 src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=mariana2812&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=666666&border_radius=15&hide_border=false"
 />
 
