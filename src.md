@@ -1,2 +1,3 @@
-<img src="https://github.com/paulopontodev/paulopontodev/blob/main/src/edgerunners.gif?raw=true" alt="Texto Alternativo" width="500">
+<img src="./assets/rize-dark.gif">
+<img src="./assets/rize-light.gif">
 
